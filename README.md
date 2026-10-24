@@ -37,6 +37,18 @@ The first implementation inflated a 2,885-byte seed into **3.13 GB** of source. 
 
 SMATINY is the output-capable relative of SMETANA. Plain SMETANA has no output instruction, which would make this particular bad idea less convenient.
 
+## The executable picture
+
+The Piet program is **307,675 × 3 pixels**: an absurdly long strip. This overview folds the complete raster into rows so GitHub can display it. Read left to right, then top to bottom; the labels are horizontal codel offsets in the original image.
+
+![The complete Piet raster folded into labelled rows for viewing](assets/piet-overview.png)
+
+[Enlarged detail](optimized/piet-detail.png) · [Full strip as PNG](assets/piet-program.png) · [Canonical executable PPM](optimized/seven.ppm)
+
+The folded overview is a preview, not an executable layout. The full PNG preserves every source pixel; the byte-exact relay uses the original PPM file.
+
+To regenerate the views, install Pillow and run `python optimized/render_piet.py`.
+
 ## Run the entire unnecessary round trip
 
 Requires Python 3, a C++17 compiler (`g++`), `make`, and zlib development headers.
