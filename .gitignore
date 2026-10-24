@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+optimized/runtime
+optimized/*.result
+optimized/*-perl.ul
+optimized/tiny*
+optimized/sample*
+optimized/syntax*
+npiet-1.3f/npiet
+npiet-1.3f/*.o
+npiet-1.3f/config.h
+npiet-1.3f/config.log
+npiet-1.3f/config.status
+npiet-1.3f/Makefile

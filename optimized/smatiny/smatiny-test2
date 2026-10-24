@@ -1,0 +1,84 @@
+1. Swap 1 with 120. ; out of harm's way
+
+121. Swap 187 with 72. ; gets that ready to output 'H'
+122. Swap 174 with 73. ; adds a jump back to step 123
+123. Swap 123 with 71. ; let's go!
+124. Do nothing. ; jump target
+
+125. Swap 72 with 101. ; 'e'
+126. Swap 175 with 102.
+127. Swap 127 with 100.
+128. Do nothing.
+
+129. Swap 101 with 108. ; 'l'
+130. Swap 176 with 109.
+131. Swap 131 with 107.
+132. Do nothing.
+
+133. Swap 108 with 108. ; 'l', and I know this won't do anything
+134. Swap 177 with 109.
+135. Swap 135 with 107.
+136. Do nothing.
+
+137. Swap 108 with 111. ; 'o'
+138. Swap 178 with 112.
+139. Swap 139 with 110.
+140. Do nothing.
+
+141. Swap 111 with 44. ; ','
+142. Swap 179 with 45.
+143. Swap 143 with 43.
+144. Do nothing.
+
+145. Swap 44 with 32. ; ' '
+146. Swap 180 with 33.
+147. Swap 147 with 31.
+148. Do nothing.
+
+149. Swap 32 with 119. ; 'w'
+150. Swap 181 with 120.
+151. Swap 151 with 118.
+152. Do nothing.
+
+153. Swap 119 with 111. ; 'o'
+154. Swap 182 with 112.
+155. Swap 155 with 110.
+156. Do nothing.
+
+157. Swap 111 with 114. ; 'r'
+158. Swap 183 with 115.
+159. Swap 159 with 113.
+160. Do nothing.
+
+161. Swap 114 with 108. ; 'l'
+162. Swap 184 with 109.
+163. Swap 163 with 107.
+164. Do nothing.
+
+165. Swap 108 with 100. ; 'd'
+166. Swap 185 with 101.
+167. Swap 167 with 99.
+168. Do nothing.
+
+169. Swap 100 with 33. ; '!'
+170. Swap 186 with 34.
+171. Swap 171 with 32.
+172. Do nothing.
+
+173. Swap 173 with 187. ; end of program!
+
+174. Swap 73 with 124.
+175. Swap 102 with 128.
+176. Swap 109 with 132.
+177. Swap 109 with 136.
+178. Swap 112 with 140.
+179. Swap 45 with 144.
+180. Swap 33 with 148.
+181. Swap 120 with 152.
+182. Swap 112 with 156.
+183. Swap 115 with 160.
+184. Swap 109 with 164.
+185. Swap 101 with 168.
+186. Swap 34 with 172.
+
+187. Output this block's position.

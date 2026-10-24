@@ -1,0 +1,30 @@
+{
+  "seven.b98": {
+    "bytes": 5075,
+    "sha256": "9c32902824057e3532f2997d75b534f8f1ffb17c655ae8726af8fe88ea55d5ec"
+  },
+  "seven.fish": {
+    "bytes": 5075,
+    "sha256": "f6eed3a94e45ef8e86820980eb687430c105ecd04e51e06c7beb4c06649cc032"
+  },
+  "seven.mur": {
+    "bytes": 24895,
+    "sha256": "f25025058c3f9cd6291028ca5c7cbc269f90c1cb7e7f10d3300220b93b1b699a"
+  },
+  "seven.ul": {
+    "bytes": 2709003,
+    "sha256": "7ce89c24cd779425211f47923f1e1334f60a6939be52b6536a500f556804286b"
+  },
+  "seven.smbf": {
+    "bytes": 2642148,
+    "sha256": "ff2073df2cdee6499c7bc9e11c06da7d734966cd9f662d3219b8f8f772a63b28"
+  },
+  "seven.smatiny": {
+    "bytes": 2641867,
+    "sha256": "712b186e91b132e3e4971d3cdd04b0462968a6f678f7f562746ea9c5e34d425f"
+  },
+  "seven.ppm": {
+    "bytes": 11076316,
+    "sha256": "271407a83a9e98a93c16bfbcc7c0edd5d21b61890555bec3e14f19014328bab3"
+  }
+}

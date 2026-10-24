@@ -1,0 +1,15 @@
+This is Smatiny, an implementation of the Smatiny language defined by ihope.
+
+    <http://esoteric.voxelperfect.net/wiki/SMATINY>
+
+See the included files smatiny-test and smatiny-test2 for examples. In fact, 
+as their paths imply, these make great tests:
+
+./smatiny smatiny-test # should print "Hi!"
+./smatiny smatiny-test2 # should print "Hello, World!"
+
+COMPILATION
+
+You'll need GHC <http://haskell.org/ghc> (or, in fact, any other Haskell compiler).
+
+ghc -o smatiny --make Main.hs

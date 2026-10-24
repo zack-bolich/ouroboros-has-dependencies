@@ -1,0 +1,42 @@
+{
+  "seven.b98": {
+    "before_bytes": 2885,
+    "after_bytes": 5075,
+    "reduction_factor": 0.5684729064039409
+  },
+  "seven.fish": {
+    "before_bytes": 2885,
+    "after_bytes": 5075,
+    "reduction_factor": 0.5684729064039409
+  },
+  "seven.mur": {
+    "before_bytes": 13945,
+    "after_bytes": 24895,
+    "reduction_factor": 0.5601526410925889
+  },
+  "seven.ul": {
+    "before_bytes": 1054434920,
+    "after_bytes": 2709003,
+    "reduction_factor": 389.2335741230261
+  },
+  "seven.smbf": {
+    "before_bytes": 1036016198,
+    "after_bytes": 2642148,
+    "reduction_factor": 392.1113419838707
+  },
+  "seven.smatiny": {
+    "before_bytes": 1036015917,
+    "after_bytes": 2641867,
+    "reduction_factor": 392.1529422185144
+  },
+  "seven.ppm": {
+    "before_bytes": 6139600,
+    "after_bytes": 11076316,
+    "reduction_factor": 0.5542998231541968
+  },
+  "total": {
+    "before_bytes": 3132626350,
+    "after_bytes": 19104379,
+    "reduction_percent": 99.39014817391164
+  }
+}
